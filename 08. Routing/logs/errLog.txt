@@ -1,0 +1,36 @@
+2023-10-07	16:49:01	cb2c83e5-19bd-411e-b117-0a53f891516e	TypeError fsPromises.readFil is not a function
+2023-10-07	16:49:06	a99d8220-256d-4bcd-aff8-c42415878913	TypeError fsPromises.readFil is not a function
+2023-10-07	16:49:06	13cefb9e-7bee-4f1f-bf01-fad285e7547a	TypeError fsPromises.readFil is not a function
+2023-10-07	16:49:06	45aaf830-39c4-4d53-a4ac-b58eb429c6f1	TypeError fsPromises.readFil is not a function
+2023-10-07	16:49:06	6487e954-76ce-4395-8679-bcdfbb7d7f8a	TypeError fsPromises.readFil is not a function
+2023-10-07	16:49:11	2d68a305-effd-4992-85b0-2095cb27cf17	TypeError fsPromises.readFil is not a function
+2023-10-14	13:25:20	ddf019f0-7f12-4dc0-8406-aa733afa3230	Error: Now allowed by CORS
+2023-10-14	13:25:22	71cfcbfb-90d6-4a14-9711-28d309ff6516	Error: Now allowed by CORS
+2023-10-14	13:25:22	1db21435-c0fc-436e-ade7-b47c2b2fe73b	Error: Now allowed by CORS
+2023-10-14	13:25:22	5c72ff0c-7471-4d33-ab25-c7b9ce7fd611	Error: Now allowed by CORS
+2023-10-14	13:25:22	ab28f52a-b0d0-44f7-8700-8028f49d9d18	Error: Now allowed by CORS
+2023-10-14	13:25:27	338dbed8-4f1d-4259-8620-20301d81b4e3	Error: Now allowed by CORS
+2023-10-14	13:25:27	40b6b669-e53a-4acb-877b-79307b827d96	Error: Now allowed by CORS
+2023-10-14	13:25:32	56fa457d-6b69-4bec-aa33-fc9dec6681f6	Error: Now allowed by CORS
+2023-10-14	13:25:37	230d60c1-8a5a-4839-b603-addaf013bfe2	Error: Now allowed by CORS
+2023-10-14	13:25:42	9dd3af90-89cd-4ebd-9f75-8d85e12bfb76	Error: Now allowed by CORS
+2023-10-14	13:25:47	449acc54-68fc-4ce6-b486-a1cd33dd3aee	Error: Now allowed by CORS
+2023-10-14	13:25:52	a2568964-d522-4e02-9d61-76d70f29b224	Error: Now allowed by CORS
+2023-10-14	13:25:57	f2d8eed7-2590-4b13-8480-09a469f1efdb	Error: Not allowed by CORS
+2023-10-14	13:25:58	9087b454-8cba-4cb5-9526-c69977c83a3e	Error: Not allowed by CORS
+2023-10-14	13:26:02	ea68b52c-66b5-4408-a05f-91ba7f147cff	Error: Not allowed by CORS
+2023-10-14	13:26:07	18dcbff5-cdeb-46d1-8ae5-b9368b0244bd	Error: Not allowed by CORS
+2023-10-14	13:26:12	a07aef65-3b61-4947-9559-4e666af2909e	Error: Not allowed by CORS
+2023-10-14	13:26:12	cd0f6a5f-9280-420a-a1cb-3f77c36b6d03	Error: Not allowed by CORS
+2023-10-14	13:26:17	0f891c20-04ac-4aec-aeec-79b91e698d5d	Error: Not allowed by CORS
+2023-10-14	13:26:17	8730e00f-ccb6-49b7-870a-fb2f5e9a348c	Error: Not allowed by CORS
+2023-10-14	13:26:17	4b108d73-6184-4fea-98a5-ceef057c60b3	Error: Not allowed by CORS
+2023-10-14	13:26:22	ec4fe5cb-694c-4b38-9616-1731fd32423e	Error: Not allowed by CORS
+2023-10-14	13:26:22	8703bc9c-7920-439c-be1a-6a458c02d160	Error: Not allowed by CORS
+2023-10-14	13:26:22	4d92d19e-1639-478c-8a4f-57ace808cc1a	Error: Not allowed by CORS
+2023-10-14	13:26:27	bdadd49a-5b25-448e-9afc-24fb0e70a3f3	Error: Now allowed by CORS
+2023-10-14	13:26:27	994e3d1a-9b33-4405-8930-99725ceae0e3	Error: Now allowed by CORS
+2023-10-14	13:26:27	b96404da-71b1-40e5-8c9f-ec55ca695c0f	Error: Now allowed by CORS
+2023-10-14	13:26:27	32cf3dbc-e948-4806-8c79-da08b0c53e4e	Error: Now allowed by CORS
+2023-10-14	13:26:27	944a12e7-866b-4972-bdb7-7be9774209a4	Error: Now allowed by CORS
+2023-10-14	21:38:20	26cc42cb-c1b9-40a2-9f31-f88ba2e4056b	SyntaxError: Unexpected token J in JSON at position 14
